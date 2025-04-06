@@ -21,7 +21,7 @@
 
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/andyhub1991/chrome_tab_grouper.git```
+   git clone https://github.com/andyhub1991/chrome_tab_grouper.git
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable Developer mode (top right)
 4. Click “Load unpacked” and select the project folder
