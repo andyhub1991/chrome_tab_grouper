@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Recent Tabs Grouper",
+  "version": "1.3",
+  "description": "Shows most recently accessed tabs grouped by domain and meaningful path, with timestamps, collapsible groups, close buttons, and time-based grouping labels.",
+  "permissions": [
+    "tabs",
+    "storage",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
